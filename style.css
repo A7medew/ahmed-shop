@@ -224,3 +224,69 @@ form button {
     cursor: pointer;
     margin-top: 15px;
 }
+
+form button:hover {
+    background: #6a27b3;
+} 
+
+    .mouse-card {
+    background-color: #222;
+    border: 1px solid #444;
+    border-radius: 15px;
+    padding: 20px;
+    width: 250px;
+    text-align: center;
+    margin: 30px;
+}
+
+.mouse-card img {
+    width: 180px;
+    border-radius: 10px;
+}
+
+.mouse-card button {
+    background-color: #8b35ff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 25px;
+    cursor: pointer;
+}
+
+.keyboard-card {
+    background-color: #222;
+    border: 1px solid #444;
+    border-radius: 15px;
+    padding: 20px;
+    width: 250px;
+    text-align: center;
+    color: white;
+    margin: 20px;
+}
+
+.keyboard-card img {
+    width: 200px;
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+.keyboard-card h2 {
+    color: white;
+}
+
+.keyboard-card p {
+    color: #aaa;
+}
+
+.keyboard-card button {
+    background-color: #8b35ff;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 25px;
+    cursor: pointer;
+}
+
+.keyboard-card button:hover {
+    background-color: #6a27b3;
+}
